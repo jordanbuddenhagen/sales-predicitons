@@ -1,0 +1,128 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMfA+yJj2hZljyW1mlabFcL",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jordanbuddenhagen/sales-predicitons/blob/main/Project%201-Part%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Project 1- Part 1 \n",
+        "  - Jordan Buddenhagen \n"
+      ],
+      "metadata": {
+        "id": "gOZ2F01UoVSG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "0gnnabLMoM0B"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Loading Data"
+      ],
+      "metadata": {
+        "id": "_b07SjTfpAyX"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "G87ngCuspDhr"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "1KQLRvyRpMy8"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Data Cleaning"
+      ],
+      "metadata": {
+        "id": "eBuTaUf_pIlc"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ooUBNGB-pMjU"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Exploratory Visuals"
+      ],
+      "metadata": {
+        "id": "M6rTsm4dpO4L"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "pEsibHnGpPK7"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Explanatory Visuals"
+      ],
+      "metadata": {
+        "id": "hAFXn-BBpU-z"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "GCLgm6_RpVTj"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
